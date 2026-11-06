@@ -20,6 +20,10 @@
 JianyingPro Drafts/
 *.tmp
 
+# 本地工具二进制（不进 Git，说明文件除外）
+onemorestudio-ai视频/tools/*
+!onemorestudio-ai视频/tools/README.md
+
 # 系统与缓存
 .DS_Store
 Thumbs.db
