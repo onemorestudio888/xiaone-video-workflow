@@ -1,0 +1,29 @@
+# 素材与大文件（走网盘/移动硬盘，不进 Git）
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.m4v
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.psd
+*.aep
+*.prproj
+*.proj
+
+# 剪映工程目录
+JianyingPro Drafts/
+*.tmp
+
+# 系统与缓存
+.DS_Store
+Thumbs.db
+.cache/
+__pycache__/
+*.pyc
+node_modules/
