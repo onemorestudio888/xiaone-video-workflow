@@ -26,6 +26,7 @@
 - 字幕：底部固定、无描边、44 号，关键词暖橙 #FFB84D
 - 音乐：曲库 `~/Movies/ONEMORE剪辑预设/BGM/`（21 首 mp3），主选 `VLOG类/thank God for everything`，备选 `Passionfruit`、`Caught In A Blue`
 - 音量：音乐轨统一 **-18 dB**；带人声曲目需做「人声分离」只留伴奏
+- 导入：正式阶段用剪映「导入本地音乐」直接读 `~/Movies/ONEMORE剪辑预设/BGM/`，不耗积分，已获授权
 - 投流替身轨：剪映自带宽松纯音乐（氛围/极简钢琴），与主版同结构
 - CTA：私信「剪辑」看样片（不放联系方式）
 
